@@ -6,6 +6,11 @@ using namespace std;
 #include "manusia.h"
 
 int main() { //composisi
+	manusia* varmanusia = new manusia("joko");
+	delete varmanusia;
+	return 0;
+
+
 
 }
 
