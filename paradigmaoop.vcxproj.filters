@@ -26,5 +26,11 @@
     <ClInclude Include="manusia.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="anak.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="anakk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

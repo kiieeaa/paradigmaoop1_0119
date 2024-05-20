@@ -130,6 +130,8 @@
     <ClCompile Include="paradigmaoop.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="anak.h" />
+    <ClInclude Include="anakk.h" />
     <ClInclude Include="jantung.h" />
     <ClInclude Include="manusia.h" />
   </ItemGroup>
