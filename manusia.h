@@ -1,4 +1,14 @@
 #pragma once
 #ifndef MANUSIA_H
 #define MANUSIA_H
-using namespace
+#include <iostream>
+using namespace std;
+
+class manusia {
+public:
+	string name;
+	jantung varJantung;
+
+	manusia(string pname)
+		: nama(pname) {
+
