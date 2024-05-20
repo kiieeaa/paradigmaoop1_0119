@@ -10,5 +10,9 @@ public:
 	jantung varJantung;
 
 	manusia(string pname)
-		: nama(pname) {
+		: name(pname) {
+		cout << name << "hidup\n";
+	}
+	~manusia() {
+
 
